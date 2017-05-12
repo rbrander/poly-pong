@@ -1,0 +1,23 @@
+{
+  "name": "poly-pong",
+  "version": "1.0.0",
+  "description": "A multi-player pong game using polygons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbrander/poly-pong.git"
+  },
+  "keywords": [
+    "pong",
+    "polygon"
+  ],
+  "author": "Rob Brander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbrander/poly-pong/issues"
+  },
+  "homepage": "https://github.com/rbrander/poly-pong#readme"
+}
